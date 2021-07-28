@@ -49,6 +49,9 @@
 
 <br /> <br />
 
+
+<br /><br />
+
 - ### Other Programming Languages :
 
   <img align="left" alt="java" width="26px" src="./icons/java.png" />
@@ -74,6 +77,8 @@
     <img align="left" alt="git" width="26px" src="./icons/git.png"/>
 	<img align="left" alt="Xampp" width="26px" src="./icons/xampp.png"/>
 	
+<br /><br />
+	
 - ### Design/Editing Tools
 	<img align="left" alt="ps" width="26px" src="./icons/ps.png"/>
 	<img align="left" alt="pr" width="26px" src="./icons/pr.png"/>
@@ -89,9 +94,9 @@
 
 ## Github Stats:
 
-[![Fupov's GitHub stats](https://github-readme-stats.vercel.app/api?username=fupov&show_icons=true&theme=radical](https://github.com/anuraghazra/github-readme-stats)
+[![Fupov's GitHub stats](https://github-readme-stats.vercel.app/api?username=fupov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fupov&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Fupov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fupov&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
