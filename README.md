@@ -55,12 +55,16 @@
 - ### Other Programming Languages :
 
   <img align="left" alt="java" width="26px" src="./icons/java.png" />
-  <img align="left" alt="C#" width="26px" src="./icons/ruby.png" />
-  <img align="left" alt="C++" width="26px" src="./icons/ruby.png" />
+  <img align="left" alt="C#" width="26px" src="./icons/CSharp.png" />
+  <img align="left" alt="C++" width="26px" src="./icons/c++.svg" />
+
+<br /><br />
+- ### Testing Tools:
+  <img align="left" alt="seleniun" width="26px" src="./icons/selenium.png" />
 
 <br /><br />
 
-- ### Tools
+- ### Programming Tools
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img align="left" alt="ruby" width="26px" src="./icons/atom.png" />
     <img align="left" alt="webstorm" width="26px" src="./icons/webstorm.png"/>
@@ -71,6 +75,13 @@
     <img align="left" alt="Visual Paradigm" width="26px" src="./icons/vsparadigm.png"/>
     <img align="left" alt="filezilla" width="26px" src="./icons/filezilla.png"/>
     <img align="left" alt="git" width="26px" src="./icons/git.png"/>
+	<img align="left" alt="Xampp" width="26px" src="./icons/xampp.png"/>
+	
+- ### Design/Editing Tools
+	<img align="left" alt="ps" width="26px" src="./icons/ps.png"/>
+	<img align="left" alt="pr" width="26px" src="./icons/pr.png"/>
+	<img align="left" alt="au" width="26px" src="./icons/au.png"/>
+
 
 <br /><br />
 - ### Others
