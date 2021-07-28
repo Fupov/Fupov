@@ -10,7 +10,8 @@
 
 [<img align="left" alt="https://www.linkedin.com/in/tchich-aymane/" width="22px" src="./icons/linkedin.png" />][linkedin]
 [<img align="left" alt="https://www.instagram.com/aymanedesu/" width="22px" src="./icons/instagram.png" />][instagram]
-<a href="mailto:tchich.aymane@gmail.com?"><img src="./icons/gmail.webp/></a>
+[<a href="mailto:tchich.aymane@gmail.com?"><img src="./icons/gmail.webp"/></a>][gmail]
+
 
 <br /> <br />
 
