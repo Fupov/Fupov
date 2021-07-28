@@ -4,8 +4,8 @@
 
 - 🎓 I’m currently learning all about computer science
 - 🔎 Thirsty for learning more about IOT technologies
-- 🎯 Goals: Starting my Enginnering Degree and ooking forward to become an Entreprenneur
-- 
+- 🎯 Goals: Starting my Enginnering Degree and looking forward to become an Entreprenneur
+
 ## Connect with me:
 
 [<img align="left" alt="https://www.linkedin.com/in/tchich-aymane/" width="26px" src="./icons/linkedin.png" />][linkedin]
