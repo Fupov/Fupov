@@ -1,20 +1,10 @@
 # Hi there, I'm Aymane Tchich
 
-## I'm a Computer Science Student, FullStack Developer.
+## I'm a Computer Science Student 👨‍🎓, FullStack Developer 👨‍💻.
 
-- 🌱 I’m currently learning all about computer science
-- 👯 Thirsty for learning more about IOT technologies
-- 🥅 Goals: Starting my Enginnering Degree and ooking forward to become an Entreprenneur
-
-## Connect with me:
-
-[<img align="left" alt="Aymane Tchich IN | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Aymane Tchich IG | Instagram" width="22px" src="./icons/instagram.png" />][instagram]
-
-
-<!-- [<img align="left" alt="aymanetchich.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
-<br />
+- 🎓 I’m currently learning all about computer science
+- 🔎 Thirsty for learning more about IOT technologies
+- 🎯 Goals: Starting my Enginnering Degree and ooking forward to become an Entreprenneur
 
 ## Languages and Tools: <br />
 - ### Frontend:
@@ -95,8 +85,9 @@
 [![Fupov's GitHub stats](https://github-readme-stats.vercel.app/api?username=fupov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Fupov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fupov&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br /><br />
 
-
+## Connect with me:
 
 [website]: https://aymanetchich.com/
 [instagram]: https://www.instagram.com/aymanedesu/
