@@ -35,7 +35,7 @@
   <img align="left" alt="API" width="30px" src="./icons/api.png" />
 
 
-<br /> <br />
+<br />
 
 - ### Backend & Databases:
 
@@ -47,22 +47,18 @@
 
     <img align="left" alt="Oracle" width="30px" src="./icons/oracle.png" />
 
-<br /> <br />
-
-
-<br /><br />
-
+<br />
 - ### Other Programming Languages :
 
   <img align="left" alt="java" width="26px" src="./icons/java.png" />
   <img align="left" alt="C#" width="26px" src="./icons/CSharp.png" />
   <img align="left" alt="C++" width="26px" src="./icons/c++.svg" />
 
-<br /><br />
+<br />
 - ### Testing Tools:
   <img align="left" alt="seleniun" width="26px" src="./icons/selenium.png" />
 
-<br /><br />
+<br />
 
 - ### Programming Tools
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -83,12 +79,12 @@
 	<img align="left" alt="au" width="26px" src="./icons/au.png"/>
 
 
-<br /><br />
+<br />
 - ### Others
 
     <img align="left" alt="wordpress" width="26px" src="./icons/wp.png" />
 
-<br /><br />
+<br />
 
 ## Github Stats:
 
