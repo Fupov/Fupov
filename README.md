@@ -10,7 +10,7 @@
 
 [<img align="left" alt="https://www.linkedin.com/in/tchich-aymane/" width="26px" src="./icons/linkedin.png" />][linkedin]
 [<img align="left" alt="https://www.instagram.com/aymanedesu/" width="26px" src="./icons/instagram.png" />][instagram]
-[<a href="mailto:tchich.aymane@gmail.com?"><img src="./icons/gmail.webp" width="26px"/></a>][gmail]
+[<a href="mailto:tchich.aymane@gmail.com?"><img src="./icons/gmail.webp" width="30px"/></a>][gmail]
 
 
 ## Languages and Tools: <br />
@@ -29,7 +29,7 @@
 
   <img align="left" alt="jquery" width="26px" src="./icons/jquery.png" />
 
-  <img align="left" alt="API" width="30px" src="./icons/api.png" />
+  <img align="left" alt="API" width="34px" src="./icons/api.png" />
 
 
 <br /> <br />
@@ -42,7 +42,7 @@
 
     <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
 
-    <img align="left" alt="Oracle" width="30px" src="./icons/oracle.png" />
+    <img align="left" alt="Oracle" width="36px" src="./icons/oracle.png" />
 
 
 <br /><br />
