@@ -42,7 +42,7 @@
 
     <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
 
-    <img align="left" alt="Oracle" width="36px" src="./icons/oracle.png" />
+    <img align="left" alt="Oracle" width="40px" src="./icons/oracle.png" />
 
 
 <br /><br />
