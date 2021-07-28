@@ -1,6 +1,6 @@
 # Hi there, I'm Aymane Tchich
 
-## I'm a Computer Science Student 👨‍🎓, FullStack Developer 👨‍💻.
+## I'm a Computer Science Student, FullStack Developer.
 
 - 🎓 I’m currently learning all about computer science
 - 🔎 Thirsty for learning more about IOT technologies
