@@ -5,6 +5,14 @@
 - 🎓 I’m currently learning all about computer science
 - 🔎 Thirsty for learning more about IOT technologies
 - 🎯 Goals: Starting my Enginnering Degree and ooking forward to become an Entreprenneur
+- 
+## Connect with me:
+
+[<img align="left" alt="https://www.linkedin.com/in/tchich-aymane/" width="22px" src="./icons/linkedin.png" />][linkedin]
+[<img align="left" alt="https://www.instagram.com/aymanedesu/" width="22px" src="./icons/instagram.png" />][instagram]
+[<a href:"mailto:tchich.aymane@gmail.com"><img align="left" width="22px" src="./icons/gmail.webp" /></a>][gmail]
+
+<br /> <br />
 
 ## Languages and Tools: <br />
 - ### Frontend:
@@ -89,5 +97,6 @@
 
 
 [website]: https://aymanetchich.com/
+[gmail]: tchich.aymane@gmail.com
 [instagram]: https://www.instagram.com/aymanedesu/
 [linkedin]: https://www.linkedin.com/in/tchich-aymane/
