@@ -47,8 +47,6 @@
 
     <img align="left" alt="Oracle" width="30px" src="./icons/oracle.png" />
 
-<br /> <br />
-
 
 <br /><br />
 
