@@ -16,74 +16,69 @@
 ## Languages and Tools: <br />
 - ### Frontend:
 
-  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="CSS3" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-  <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+  <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-  <img align="left" alt="Ajax" width="26px" src="./icons/ajax.png" />
-
-  <img align="left" alt="jquery" width="26px" src="./icons/jquery.png" />
-
-  <img align="left" alt="API" width="34px" src="./icons/api.png" />
-
+ <img align="left" alt="Ajax" width="34px" src="./icons/ajax.png" />
 
 <br /> <br />
 
 - ### Backend & Databases:
 
-    <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+    <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
-    <img align="left" alt="Laravel" width="26px" src="./icons/laravel.png" />
+    <img align="left" alt="Laravel" width="30px" src="./icons/laravel.png" />
 
-    <img align="left" alt="MySQL" width="26px" src="./icons/mysql.png" />
+    <img align="left" alt="MySQL" width="30px" src="./icons/mysql.png" />
 
-    <img align="left" alt="Oracle" width="40px" src="./icons/oracle.png" />
+    <img align="left" alt="Oracle" width="48px" src="./icons/oracle.png" />
 
 
 <br /><br />
 
 - ### Other Programming Languages :
 
-  <img align="left" alt="java" width="34px" src="./icons/java.png" />
-  <img align="left" alt="C#" width="32px" src="./icons/CSharp.png" />
+  <img align="left" alt="java" width="40px" src="./icons/java.png" />
+  <img align="left" alt="C#" width="36px" src="./icons/CSharp.png" />
   <img align="left" alt="C++" width="26px" src="./icons/c++.svg" />
 
 <br /><br />
 - ### Testing Tools:
-  <img align="left" alt="seleniun" width="26px" src="./icons/selenium.png" />
+  <img align="left" alt="seleniun" width="30px" src="./icons/selenium.png" />
 
 <br /><br />
 
 - ### Programming Tools
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="left" alt="ruby" width="26px" src="./icons/atom.png" />
-    <img align="left" alt="webstorm" width="26px" src="./icons/webstorm.png"/>
-    <img align="left" alt="phpstorm" width="26px" src="./icons/phpstorm.png"/>
-    <img align="left" alt="intelligIDEA" width="26px" src="./icons/intellij.png"/>
-    <img align="left" alt="eclipse" width="26px" src="./icons/eclipse.png"/>
-    <img align="left" alt="powerdesigner" width="26px" src="./icons/powerdesigner.png"/>
-    <img align="left" alt="Visual Paradigm" width="26px" src="./icons/vsparadigm.png"/>
-    <img align="left" alt="filezilla" width="26px" src="./icons/filezilla.png"/>
-    <img align="left" alt="git" width="26px" src="./icons/git.png"/>
-	<img align="left" alt="Xampp" width="26px" src="./icons/xampp.png"/>
+    <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img align="left" alt="ruby" width="30px" src="./icons/atom.png" />
+    <img align="left" alt="webstorm" width="30px" src="./icons/webstorm.png"/>
+    <img align="left" alt="phpstorm" width="30px" src="./icons/phpstorm.png"/>
+    <img align="left" alt="intelligIDEA" width="30px" src="./icons/intellij.png"/>
+    <img align="left" alt="eclipse" width="30px" src="./icons/eclipse.png"/>
+    <img align="left" alt="powerdesigner" width="30px" src="./icons/powerdesigner.png"/>
+    <img align="left" alt="Visual Paradigm" width="30px" src="./icons/vsparadigm.png"/>
+    <img align="left" alt="filezilla" width="30px" src="./icons/filezilla.png"/>
+    <img align="left" alt="git" width="30px" src="./icons/git.png"/>
+	<img align="left" alt="Xampp" width="30px" src="./icons/xampp.png"/>
 	
 <br /><br />
 	
 - ### Design/Editing Tools
-	<img align="left" alt="ps" width="26px" src="./icons/ps.png"/>
-	<img align="left" alt="pr" width="26px" src="./icons/pr.png"/>
-	<img align="left" alt="au" width="26px" src="./icons/au.png"/>
+	<img align="left" alt="ps" width="30px" src="./icons/ps.png"/>
+	<img align="left" alt="pr" width="30px" src="./icons/pr.png"/>
+	<img align="left" alt="au" width="30px" src="./icons/au.png"/>
 
 
 <br /><br />
 - ### Others
 
-    <img align="left" alt="wordpress" width="26px" src="./icons/wp.png" />
+    <img align="left" alt="wordpress" width="30px" src="./icons/wp.png" />
 
 <br /><br />
 
