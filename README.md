@@ -1,10 +1,10 @@
 # Hi there, I'm Aymane Tchich
 
-## I'm a Computer Science Student, FullStack Developer.
+## I'm a Computer Science enginnering Student.
 
 - 🎓 I’m currently learning all about computer science
 - 🔎 Thirsty for learning more about IOT technologies
-- 🎯 Goals: Starting my Enginnering Degree and looking forward to become an Entreprenneur
+- 🎯 Goals: finishing my Enginnering Degree and looking forward to become an Entreprenneur
 
 ## Connect with me:
 
