@@ -31,13 +31,13 @@
 
 - ### Backend & Databases:
 
-    <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+    <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
 
-    <img align="left" alt="Laravel" width="30px" src="./icons/laravel.png" />
+    <img align="left" alt="Laravel" width="30px" src="./icons/laravel.png"/>
 
-    <img align="left" alt="MySQL" width="30px" src="./icons/mysql.png" />
+    <img align="left" alt="MySQL" width="30px" src="./icons/mysql.png"/>
 
-    <img align="left" alt="Oracle" width="48px" src="./icons/oracle.png" />
+    <img align="left" alt="Oracle" width="48px" src="./icons/oracle.png"/>
 
 
 <br /><br />
@@ -46,9 +46,9 @@
 
   <img align="left" alt="java" width="40px" src="./icons/java.png" />
   <img align="left" alt="C#" width="36px" src="./icons/CSharp.png" />
-  <img align="left" alt="C++" width="26px" src="./icons/c++.svg" />
+  <img align="left" alt="C++" width="30px" src="./icons/c++.svg" />
 
-<br /><br />
+<br /><br/>
 - ### Testing Tools:
   <img align="left" alt="seleniun" width="30px" src="./icons/selenium.png" />
 
