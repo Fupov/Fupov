@@ -49,8 +49,8 @@
 
 - ### Other Programming Languages :
 
-  <img align="left" alt="java" width="26px" src="./icons/java.png" />
-  <img align="left" alt="C#" width="26px" src="./icons/CSharp.png" />
+  <img align="left" alt="java" width="30px" src="./icons/java.png" />
+  <img align="left" alt="C#" width="28px" src="./icons/CSharp.png" />
   <img align="left" alt="C++" width="26px" src="./icons/c++.svg" />
 
 <br /><br />
