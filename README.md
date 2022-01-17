@@ -46,7 +46,7 @@
 
   <img align="left" alt="java" width="40px" src="./icons/java.png" />
   <img align="left" alt="C#" width="36px" src="./icons/CSharp.png" />
-  <img align="left" alt="C++" width="30px" src="./icons/c++.svg" />
+  <img align="left" alt="C++" width="29px" src="./icons/c++.svg" />
 
 <br /><br/>
 - ### Testing Tools:
